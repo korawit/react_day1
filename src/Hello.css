@@ -1,0 +1,16 @@
+h1{
+    color:tomato;
+    background-color: #00ff51;
+}
+h1:hover{
+    color:blue;
+    font-size: 50px;
+}
+img{
+    border-radius: 50%;
+    border: rgb(144, 7, 224) solid 3px;
+    filter: drop-shadow(3px 3px 3px gray);
+}
+img:hover{
+    width: 200px;
+}
