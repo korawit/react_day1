@@ -11,5 +11,6 @@ export default function Counter(){
         <button onClick={()=>setValue("")}>reset!</button>    
         <h4>{parseFloat(value)}$ to {(value*33.35).toFixed(2)} Baht</h4>
         <h4>You typed {value.length} characters</h4>
+        <img src="/Octocat.png"/>
     </>);
 }
